@@ -1,3 +1,12 @@
 <resources>
   <string name="app_name">Testing 123</string>
+
+  <array name="greetings">
+    <item>Hello</item>
+    <item>Hola</item>
+    <item>Bonjour</item>
+    <item>Привет</item>
+    <item>Hallo</item>
+    <item>Ciao</item>
+  </array>
 </resources>
